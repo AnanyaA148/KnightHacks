@@ -1,0 +1,16 @@
+#Web frameworks with angular
+#Web frameowrk is a pre made toolbox that helps you build stuff
+#front end = angular, vue.js, react
+#back end = ruby on rails, django(used to make insta.,
+#Node.js is the most used framework
+#Speeds up dev process
+# Google has used Angular since 2016
+# A LOT OF BIG COMPANIES WANT YOU TO LEARN ANGULAR
+
+{{expression}} #interpolation
+
+[property] = "expression" #One way Binding 
+
+[(ngModel)] ="property" #Bi derectional 
+
+services share logic across componeents
