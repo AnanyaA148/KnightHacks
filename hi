@@ -7,10 +7,16 @@
 # Google has used Angular since 2016
 # A LOT OF BIG COMPANIES WANT YOU TO LEARN ANGULAR
 
-{{expression}} #interpolation
+#{{expression}} #interpolation
 
-[property] = "expression" #One way Binding 
+#[property] = "expression" #One way Binding 
 
-[(ngModel)] ="property" #Bi derectional 
+#[(ngModel)] ="property" #Bi derectional 
 
-services share logic across componeents
+#services share logic across componeents
+
+#powershell code
+#ng new angularworkshop --no-standalone
+
+# Visual studio open folder
+
